@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'DH';
+  src: url('./DoHyeon-Regular.ttf');
+}
+
+body {
+  margin: 0;
+  font-family:'DH';
+}
